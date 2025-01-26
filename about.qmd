@@ -2,8 +2,16 @@
 title: "About"
 ---
 
-About this site
+![](images/Estates.jpg)
 
-```{r}
-1 + 1
-```
+Founded in 2007 in Limassol, Mare Estates has grown to become a leading name in the real estate industry. With years of excellence and a commitment to delivering exceptional properties, we have expanded our presence beyond Cyprus to key locations such as Israel and Dubai. Our portfolio boasts over 150 premium assets, including luxurious apartments and stunning villas across the world, offering unparalleled quality and comfort to our valued clients.
+
+At Mare Estates, our philosophy revolves around quality, trust, and the sense of home. We believe that a home is more than just a place to live; it’s where comfort meets style, and where our clients can truly feel at ease. Our dedicated team works tirelessly to ensure every property is crafted with attention to detail, blending modern aesthetics with timeless elegance.
+
+Customer satisfaction is at the core of our mission. We strive to provide personalized experiences, helping each client find their perfect home while ensuring a seamless and enjoyable journey. Whether you are searching for a cozy apartment in the heart of the city or a serene villa by the sea, Mare Estates is here to make your dream a reality.
+
+With a global outlook and a passion for excellence, we continue to redefine the real estate experience—creating exceptional living spaces that reflect our clients' lifestyles and aspirations.
+
+Mare Estates – Where Quality Meets Comfort.
+
+

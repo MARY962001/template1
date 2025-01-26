@@ -3,13 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "template1"
+
+
+  title: "Mare Estates"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    - href: index.qmd
+      text: Home
+    - about.qmd
+    - href: tab1.qmd
+      text: Apartments/Villas
+    - href: tab2.qmd
+      text: Services
+    - href: tab2.qmd
+      text: Contact with us
+    logo: images/Estates.jpg  
 format:
   html:
     theme: cosmo

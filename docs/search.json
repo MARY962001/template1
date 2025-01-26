@@ -1,7 +1,14 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "tab1.html",
+    "href": "tab1.html",
+    "title": "Apartments/Villas",
+    "section": "",
+    "text": "Verizon villa in Dubai\n\n\nDiscover Luxury Apartments & Villas\nWelcome to a world of sophistication and comfort. Our exclusive collection of luxury apartments and villas offers the perfect blend of elegance, tranquility, and modern living. Whether you’re seeking a serene retreat or a vibrant urban lifestyle, our properties are designed to enhance your well-being and elevate your quality of life.\nEach residence boasts breathtaking designs, premium amenities, and thoughtfully curated spaces that reflect the highest standards of luxury. From spacious living areas to stunning views and state-of-the-art facilities, our apartments and villas provide an unparalleled living experience.\nIndulge in a lifestyle of convenience and serenity, where every detail is crafted to perfection. Whether you desire a stylish city apartment or a peaceful villa by the beach, we have the perfect home to match your aspirations.\nExperience a new level of comfort, where luxury meets peace, and quality becomes a way of life. Your dream home awaits.\n\n\n\nMare apartment in Dubai\n\n\n\n\n\nCosta Bianca in Tel Aviv\n\n\n\n\n\nDivine villa in Limassol"
+  },
+  {
+    "objectID": "Tab2.html",
+    "href": "Tab2.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
@@ -12,5 +19,26 @@
     "title": "template1",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Tab4.html",
+    "href": "Tab4.html",
+    "title": "Contact with us",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Tab3.html",
+    "href": "Tab3.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Founded in 2007 in Limassol, Mare Estates has grown to become a leading name in the real estate industry. With years of excellence and a commitment to delivering exceptional properties, we have expanded our presence beyond Cyprus to key locations such as Israel and Dubai. Our portfolio boasts over 150 premium assets, including luxurious apartments and stunning villas across the world, offering unparalleled quality and comfort to our valued clients.\nAt Mare Estates, our philosophy revolves around quality, trust, and the sense of home. We believe that a home is more than just a place to live; it’s where comfort meets style, and where our clients can truly feel at ease. Our dedicated team works tirelessly to ensure every property is crafted with attention to detail, blending modern aesthetics with timeless elegance.\nCustomer satisfaction is at the core of our mission. We strive to provide personalized experiences, helping each client find their perfect home while ensuring a seamless and enjoyable journey. Whether you are searching for a cozy apartment in the heart of the city or a serene villa by the sea, Mare Estates is here to make your dream a reality.\nWith a global outlook and a passion for excellence, we continue to redefine the real estate experience—creating exceptional living spaces that reflect our clients’ lifestyles and aspirations.\nMare Estates – Where Quality Meets Comfort."
   }
 ]
